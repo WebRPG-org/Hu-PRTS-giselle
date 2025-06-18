@@ -1,0 +1,317 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 2,
+        "description": "A magical ring that Serena used. Currently, most of its\npower has vanished due to its gemstone being broken.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "A broken ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 13
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "A ring used by novice sorcerers to enhance magical power. It\ncan become a splendid weapon in the hands of a talented\nuser.",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 145,
+        "name": "Low-quality ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 1,
+        "wtypeId": 13
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "description": "An antique magic ring that a wizard used and cherished\nthroughout their life, which holds power hidden within.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "Heirloom Ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "description": "Although it's a cheap and dirty-looking ring, it has first-\nclass hidden abilities.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "Cecilia's ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "Ring of Heraldry",
+        "note": "",
+        "params": [
+            0,
+            0,
+            -500,
+            0,
+            -500,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "description": "An old, worn ring without a price tag. It holds decent\nmagical abilities as a ring.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "Bardon's Ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            25,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]

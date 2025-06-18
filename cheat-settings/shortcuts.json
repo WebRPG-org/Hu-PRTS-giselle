@@ -1,0 +1,68 @@
+{
+  "toggleCheatModal": {
+    "shortcut": "ctrl c"
+  },
+  "toggleCheatModalToSaveLocationComponent": {
+    "shortcut": ""
+  },
+  "quickSave": {
+    "shortcut": "",
+    "param": {
+      "slot": 1
+    }
+  },
+  "quickLoad": {
+    "shortcut": "ctrl q",
+    "param": {
+      "slot": 1
+    }
+  },
+  "openSaveScene": {
+    "shortcut": "ctrl s"
+  },
+  "openLoadScene": {
+    "shortcut": "ctrl a"
+  },
+  "gotoTitle": {
+    "shortcut": "ctrl t"
+  },
+  "forceVictory": {
+    "shortcut": "ctrl v"
+  },
+  "forceDefeat": {
+    "shortcut": "ctrl d"
+  },
+  "forceEscape": {
+    "shortcut": "ctrl e"
+  },
+  "toggleNoClip": {
+    "shortcut": "alt w"
+  },
+  "enemyWound": {
+    "shortcut": "alt 1"
+  },
+  "enemyRecovery": {
+    "shortcut": "alt 0"
+  },
+  "partyWound": {
+    "shortcut": "alt 2"
+  },
+  "partyRecovery": {
+    "shortcut": "alt 9"
+  },
+  "setSpeed": {
+    "shortcut": "",
+    "param": {
+      "speed": 5
+    }
+  },
+  "skipMessage": {
+    "shortcut": "",
+    "param": {
+      "accelerate": 1
+    }
+  },
+  "openDevTool": {
+    "shortcut": "f12"
+  }
+}

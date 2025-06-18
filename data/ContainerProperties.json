@@ -1,0 +1,82 @@
+﻿{
+    "Scene_Menu": {
+        "WindowLayer": {
+            "0,Window_MenuCommand": {
+                "x": 0,
+                "y": 174,
+                "width": 240,
+                "height": 396,
+                "opacity": 0,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "2,Window_MenuStatus": {
+                "x": 240,
+                "y": 0,
+                "width": 784,
+                "height": 768,
+                "opacity": 0,
+                "hidden": true,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        },
+        "Scene_Menu": {
+            "0,Sprite": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "Scene_Title": {
+        "Scene_Title": {
+            "0,Sprite": {
+                "x": 512,
+                "y": 388
+            }
+        },
+        "WindowLayer": {
+            "0,Window_TitleCommand": {
+                "x": 400,
+                "y": 520,
+                "width": 240,
+                "height": 180,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    },
+    "Scene_Item": {
+        "WindowLayer": {
+            "2,Window_ItemList": {
+                "x": 0,
+                "y": 180,
+                "width": 1024,
+                "height": 588,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    }
+}

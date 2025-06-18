@@ -1,0 +1,1808 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "Experiment Room",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 618,
+        "scrollY": 914
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "Church",
+        "order": 11,
+        "parentId": 21,
+        "scrollX": 774.8571428571428,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "Weapon and Tool Shop",
+        "order": 8,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "Tavern",
+        "order": 20,
+        "parentId": 21,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "Office",
+        "order": 9,
+        "parentId": 21,
+        "scrollX": 862.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "Goblin Confinement Room",
+        "order": 132,
+        "parentId": 22,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "Inn",
+        "order": 6,
+        "parentId": 21,
+        "scrollX": 876,
+        "scrollY": 686.5714285714286
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "Dungeon",
+        "order": 10,
+        "parentId": 5,
+        "scrollX": 918,
+        "scrollY": 492
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "Template",
+        "order": 197,
+        "parentId": 0,
+        "scrollX": 516,
+        "scrollY": 894.8571428571428
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "Adventurer's Guild",
+        "order": 12,
+        "parentId": 21,
+        "scrollX": 958.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "Monster Scholar's Residence",
+        "order": 13,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "Mary's house",
+        "order": 14,
+        "parentId": 21,
+        "scrollX": 1054.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "Goblin Cave 1 - Escape",
+        "order": 134,
+        "parentId": 6,
+        "scrollX": 519.4285714285714,
+        "scrollY": 506.57142857142856
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "Hot Spring Changing Room",
+        "order": 18,
+        "parentId": 21,
+        "scrollX": 622.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "Livestock barn",
+        "order": 21,
+        "parentId": 21,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "Start Map",
+        "order": 196,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "Roper's Dwelling 1",
+        "order": 140,
+        "parentId": 103,
+        "scrollX": 876,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "Underground Waterway Detention Room",
+        "order": 90,
+        "parentId": 71,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "Fortress",
+        "order": 158,
+        "parentId": 54,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "Road to the Abandoned Village 2",
+        "order": 30,
+        "parentId": 120,
+        "scrollX": 923.9999999999999,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "Hot Spring Town",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1611.4285714285713
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "Goblin Cave 1",
+        "order": 130,
+        "parentId": 139,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 793.7142857142857
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "Catherine Clinic Battle",
+        "order": 66,
+        "parentId": 75,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "Civilian House 3",
+        "order": 15,
+        "parentId": 21,
+        "scrollX": 622.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "Meeting place with the city police",
+        "order": 51,
+        "parentId": 82,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "Barn",
+        "order": 16,
+        "parentId": 21,
+        "scrollX": 670.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "Clinic",
+        "order": 17,
+        "parentId": 21,
+        "scrollX": 670.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "City Toilet",
+        "order": 172,
+        "parentId": 54,
+        "scrollX": 574.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "Abandoned Village",
+        "order": 26,
+        "parentId": 120,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "Confinement Room",
+        "order": 28,
+        "parentId": 29,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "Hot spring with partitions",
+        "order": 19,
+        "parentId": 14,
+        "scrollX": 732,
+        "scrollY": 590.5714285714286
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "Inside the abandoned village",
+        "order": 27,
+        "parentId": 29,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "Goblin Cave 2: Escape Time",
+        "order": 135,
+        "parentId": 6,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 842.6666666666666
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "Underground Waterway Boss Room Battle",
+        "order": 89,
+        "parentId": 71,
+        "scrollX": 529.7142857142857,
+        "scrollY": 542.5714285714286
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "Underground Waterway Slime Defeat",
+        "order": 91,
+        "parentId": 70,
+        "scrollX": 519.4285714285714,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "Used Bookstore Event Exterior",
+        "order": 54,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "East Town - For Event Use",
+        "order": 113,
+        "parentId": 54,
+        "scrollX": 458.6666666666667,
+        "scrollY": 367.1111111111111
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "Slime Excretion Event Use",
+        "order": 122,
+        "parentId": 37,
+        "scrollX": 529.7142857142857,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "City Police Ero-Event Department",
+        "order": 123,
+        "parentId": 37,
+        "scrollX": 601.7142857142857,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "Slum Tool Shop",
+        "order": 102,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "Vagrant's Hut",
+        "order": 104,
+        "parentId": 185,
+        "scrollX": 718.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "Supply Escort Request: En Route",
+        "order": 119,
+        "parentId": 37,
+        "scrollX": 906.8571428571428,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "Supply Escort Request: Combat",
+        "order": 120,
+        "parentId": 42,
+        "scrollX": 966.8571428571428,
+        "scrollY": 742.2857142857142
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "Guild Leader's Room",
+        "order": 59,
+        "parentId": 57,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "Opening Area",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 848.5714285714286,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "Random Attacker John's Hideout",
+        "order": 84,
+        "parentId": 47,
+        "scrollX": 618,
+        "scrollY": 523
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "City Dungeon",
+        "order": 83,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "Thieves' Fortress Rooftop",
+        "order": 42,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 542.5714285714286
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "In front of Pigman Cave",
+        "order": 136,
+        "parentId": 103,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "For reminiscence",
+        "order": 200,
+        "parentId": 0,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "Guild for Erotic Events",
+        "order": 60,
+        "parentId": 57,
+        "scrollX": 718.2857142857142,
+        "scrollY": 590.5714285714286
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "1F Brothel",
+        "order": 76,
+        "parentId": 54,
+        "scrollX": 790,
+        "scrollY": 611
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "Battle Tutorial",
+        "order": 4,
+        "parentId": 45,
+        "scrollX": 618,
+        "scrollY": 489
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "Town to the East",
+        "order": 47,
+        "parentId": 0,
+        "scrollX": 4848,
+        "scrollY": 2100.8571428571427
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "2F Brothel",
+        "order": 78,
+        "parentId": 52,
+        "scrollX": 602,
+        "scrollY": 507
+    },
+    {
+        "id": 56,
+        "expanded": false,
+        "name": "Tool Shop",
+        "order": 48,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "Guild",
+        "order": 58,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 58,
+        "expanded": false,
+        "name": "Weapons & Armor Shop",
+        "order": 49,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "Basement 2F Auction Venue",
+        "order": 163,
+        "parentId": 19,
+        "scrollX": 858.8571428571428,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "Orphanage",
+        "order": 71,
+        "parentId": 54,
+        "scrollX": 610.6666666666666,
+        "scrollY": 499.55555555555554
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "East Town Field Map",
+        "order": 125,
+        "parentId": 54,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "Gekuran House",
+        "order": 94,
+        "parentId": 47,
+        "scrollX": 516,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "Albert House",
+        "order": 92,
+        "parentId": 47,
+        "scrollX": 533.1428571428571,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "Orc Bad End",
+        "order": 151,
+        "parentId": 105,
+        "scrollX": 533.1428571428571,
+        "scrollY": 487.71428571428567
+    },
+    null,
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "Fort Escape 4",
+        "order": 160,
+        "parentId": 19,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "Roper's Dwelling: Seedbed Conversion",
+        "order": 143,
+        "parentId": 141,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "Roper's Dwelling 2",
+        "order": 141,
+        "parentId": 17,
+        "scrollX": 876,
+        "scrollY": 668.5714285714286
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "In front of the eastern town gate",
+        "order": 126,
+        "parentId": 61,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "Underground waterway",
+        "order": 87,
+        "parentId": 47,
+        "scrollX": 1208.5714285714284,
+        "scrollY": 1044.857142857143
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "Underground Waterway Boss Room",
+        "order": 88,
+        "parentId": 70,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "Ending",
+        "order": 198,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "Machias household",
+        "order": 93,
+        "parentId": 47,
+        "scrollX": 574.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "Ganulon Brothel Hall",
+        "order": 107,
+        "parentId": 185,
+        "scrollX": 602,
+        "scrollY": 534
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "Catherine Clinic",
+        "order": 65,
+        "parentId": 54,
+        "scrollX": 516.4444444444445,
+        "scrollY": 532.4444444444445
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "East Town Nishi, Ohashi",
+        "order": 127,
+        "parentId": 69,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "Cheap inn",
+        "order": 101,
+        "parentId": 185,
+        "scrollX": 656.5714285714286,
+        "scrollY": 537.4285714285714
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "Bathhouse Reception Changing Room",
+        "order": 61,
+        "parentId": 54,
+        "scrollX": 718.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "Prison",
+        "order": 115,
+        "parentId": 37,
+        "scrollX": 766.2222222222222,
+        "scrollY": 742.2222222222222
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "Slum Trading Hut",
+        "order": 98,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "Auction venue",
+        "order": 164,
+        "parentId": 59,
+        "scrollX": 670.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "Patrol Squad Nikola Base",
+        "order": 50,
+        "parentId": 54,
+        "scrollX": 516,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "Ganulon Reception Room",
+        "order": 108,
+        "parentId": 74,
+        "scrollX": 529.7142857142857,
+        "scrollY": 531.4285714285714
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "Ganuron Room",
+        "order": 109,
+        "parentId": 83,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "Childbearing Woman Room",
+        "order": 110,
+        "parentId": 83,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "Used bookstore",
+        "order": 53,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "Empty Map 5",
+        "order": 112,
+        "parentId": 74,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "Renovated bookstore",
+        "order": 55,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "1F Theater and Casino",
+        "order": 159,
+        "parentId": 19,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "Prison Basement",
+        "order": 116,
+        "parentId": 79,
+        "scrollX": 451.55555555555554,
+        "scrollY": 400.8888888888889
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "Fort Escape 1",
+        "order": 166,
+        "parentId": 59,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "Warehouse",
+        "order": 169,
+        "parentId": 59,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "Goblin Cave 2",
+        "order": 131,
+        "parentId": 22,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "Tavern Inn 1F",
+        "order": 74,
+        "parentId": 54,
+        "scrollX": 704.5714285714286,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "East Town East Mountain Path 2",
+        "order": 152,
+        "parentId": 96,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "East Town Eastern Highway",
+        "order": 144,
+        "parentId": 69,
+        "scrollX": 618,
+        "scrollY": 489
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "Pigman Cave",
+        "order": 137,
+        "parentId": 49,
+        "scrollX": 684,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "Orc Forest 1",
+        "order": 146,
+        "parentId": 119,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "Orc Forest 2",
+        "order": 147,
+        "parentId": 98,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 100,
+        "expanded": false,
+        "name": "Fort Escape 5",
+        "order": 161,
+        "parentId": 66,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "Fort Escape 3",
+        "order": 162,
+        "parentId": 66,
+        "scrollX": 704.5714285714286,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "Fort Escape 2",
+        "order": 168,
+        "parentId": 91,
+        "scrollX": 1260,
+        "scrollY": 537.4285714285714
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "East Town South Forest",
+        "order": 128,
+        "parentId": 69,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1513.7142857142856
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "Tavern Inn 2F",
+        "order": 75,
+        "parentId": 94,
+        "scrollX": 838.2857142857142,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "Orc Boss Room",
+        "order": 149,
+        "parentId": 99,
+        "scrollX": 574.2857142857142,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "Random Attacker John's Hideout Battle",
+        "order": 85,
+        "parentId": 46,
+        "scrollX": 618,
+        "scrollY": 550
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "Orc Confinement Room",
+        "order": 148,
+        "parentId": 99,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 108,
+        "expanded": true,
+        "name": "Basement",
+        "order": 56,
+        "parentId": 86,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 109,
+        "expanded": true,
+        "name": "Basement Battle",
+        "order": 57,
+        "parentId": 108,
+        "scrollX": 618,
+        "scrollY": 603
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "Ganulon Reception Room Battle",
+        "order": 111,
+        "parentId": 83,
+        "scrollX": 670.2857142857142,
+        "scrollY": 531.4285714285714
+    },
+    {
+        "id": 111,
+        "expanded": true,
+        "name": "Lighting Room",
+        "order": 167,
+        "parentId": 91,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    null,
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "Fortress Battlefield",
+        "order": 170,
+        "parentId": 19,
+        "scrollX": 529.7142857142857,
+        "scrollY": 743.1428571428571
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "Inn 2F",
+        "order": 7,
+        "parentId": 7,
+        "scrollX": 516,
+        "scrollY": 681.4285714285713
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "Bad End",
+        "order": 171,
+        "parentId": 54,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "Burdan Event Cabin",
+        "order": 124,
+        "parentId": 37,
+        "scrollX": 533.1428571428571,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "Forest near the Hot Spring Town 1",
+        "order": 22,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    null,
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "Eastern Town Mountain Path",
+        "order": 145,
+        "parentId": 96,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1753.7142857142856
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "Road to the Abandoned Village 1",
+        "order": 25,
+        "parentId": 21,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 894.8571428571428
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "Bandit Fortress",
+        "order": 36,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "Thieves' Fortress 1F",
+        "order": 37,
+        "parentId": 121,
+        "scrollX": 971.9999999999999,
+        "scrollY": 926.5714285714286
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "Minotaur's Way Home",
+        "order": 32,
+        "parentId": 129,
+        "scrollX": 602,
+        "scrollY": 603
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "Thieves' Fortress 2F",
+        "order": 38,
+        "parentId": 121,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1064.5714285714284
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "Forest near the Hot Spring Town 2",
+        "order": 23,
+        "parentId": 117,
+        "scrollX": 1404,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "Thieves' Hideout - Prison Cell",
+        "order": 39,
+        "parentId": 124,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "Escape from the Bandit Fortress - Minotaur Battle",
+        "order": 41,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 938.5714285714286
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "Undecided",
+        "order": 29,
+        "parentId": 29,
+        "scrollX": 838.2857142857142,
+        "scrollY": 825.4285714285713
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "Minotaur Erika on standby",
+        "order": 31,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "Forest of Abandonment",
+        "order": 33,
+        "parentId": 21,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "Forest near the Hot Spring Town 3",
+        "order": 24,
+        "parentId": 117,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 777.4285714285713
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "Forest of Abandonment - Flower Garden",
+        "order": 34,
+        "parentId": 130,
+        "scrollX": 886,
+        "scrollY": 807
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "Smuggler's Path",
+        "order": 35,
+        "parentId": 21,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "Thieves' Fortress Rooftop Infiltration Path",
+        "order": 43,
+        "parentId": 121,
+        "scrollX": 529.7142857142857,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "Thieves' Fortress 3F",
+        "order": 44,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 684.8571428571428
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "Thieves' Hideout - Prison Cell - Combat",
+        "order": 40,
+        "parentId": 126,
+        "scrollX": 766.2857142857142,
+        "scrollY": 513.4285714285714
+    },
+    null,
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "1F Brothel Reception Automatic Event Area",
+        "order": 77,
+        "parentId": 52,
+        "scrollX": 591.4285714285714,
+        "scrollY": 684
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "East Town - In front of the Goblin Cave",
+        "order": 129,
+        "parentId": 103,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "Slum Trading Hut Basement",
+        "order": 99,
+        "parentId": 80,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "Roper's Dwelling - Confinement Room",
+        "order": 142,
+        "parentId": 68,
+        "scrollX": 529.7142857142857,
+        "scrollY": 545.1428571428571
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "Thieves' Fortress - Dodge Battle Defeat Scene",
+        "order": 45,
+        "parentId": 121,
+        "scrollX": 529.7142857142857,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "Auction venue",
+        "order": 165,
+        "parentId": 81,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "Part Three: Hot Spring Town",
+        "order": 173,
+        "parentId": 0,
+        "scrollX": 529.7142857142857,
+        "scrollY": 756
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "Chapter Three: The Inn",
+        "order": 174,
+        "parentId": 144,
+        "scrollX": 790,
+        "scrollY": 711
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "Bandit Fortress Dodge Battle",
+        "order": 46,
+        "parentId": 121,
+        "scrollX": 516,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "Slum Trading Hut Underground Battle",
+        "order": 100,
+        "parentId": 80,
+        "scrollX": 519.4285714285714,
+        "scrollY": 506.57142857142856
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "church",
+        "order": 70,
+        "parentId": 54,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 149,
+        "expanded": true,
+        "name": "City Police Headquarters",
+        "order": 67,
+        "parentId": 54,
+        "scrollX": 601.7777777777778,
+        "scrollY": 519.1111111111111
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "Part Three Opening",
+        "order": 189,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "Part Three: Inn 2F",
+        "order": 175,
+        "parentId": 145,
+        "scrollX": 886,
+        "scrollY": 711
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "Western-style mansion 1F",
+        "order": 72,
+        "parentId": 54,
+        "scrollX": 519.1111111111111,
+        "scrollY": 531.5555555555555
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "Western-style mansion 2F",
+        "order": 73,
+        "parentId": 152,
+        "scrollX": 864,
+        "scrollY": 774
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "City Police Jail",
+        "order": 68,
+        "parentId": 149,
+        "scrollX": 533.1428571428571,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "Part Three: The Armory and Tool Shop",
+        "order": 177,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "Part Three: The Storeroom",
+        "order": 178,
+        "parentId": 144,
+        "scrollX": 756,
+        "scrollY": 765
+    },
+    {
+        "id": 157,
+        "expanded": false,
+        "name": "Part Three: The Dungeon",
+        "order": 179,
+        "parentId": 156,
+        "scrollX": 900.8571428571428,
+        "scrollY": 499.71428571428567
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "Part Three: Church Trial",
+        "order": 191,
+        "parentId": 169,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "Part Three: The Monster Scholar's Residence",
+        "order": 180,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "Part Three: Mary's House",
+        "order": 181,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "Part Three: Serena's Temporary Home",
+        "order": 182,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "Part Three: The Barn",
+        "order": 195,
+        "parentId": 144,
+        "scrollX": 635.1428571428571,
+        "scrollY": 513.4285714285714
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "Part Three: The Clinic",
+        "order": 183,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "Part Three: Toilet",
+        "order": 184,
+        "parentId": 144,
+        "scrollX": 618,
+        "scrollY": 781
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "Part Three: Hot Spring Changing Room",
+        "order": 185,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "Part Three: The Hot Springs with Partitions",
+        "order": 186,
+        "parentId": 165,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "Part Three: The Tavern",
+        "order": 187,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 168,
+        "expanded": false,
+        "name": "Part Three: The Barn",
+        "order": 188,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "Part Three: The Church",
+        "order": 190,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "Part Three: Innkeeper's Room",
+        "order": 176,
+        "parentId": 145,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "Part Three: Deeper into the Forest",
+        "order": 192,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 172,
+        "expanded": false,
+        "name": "Part Three: The Forest of Abandonment - The Garden",
+        "order": 193,
+        "parentId": 171,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "Part Three: Adventurer's Guild",
+        "order": 194,
+        "parentId": 144,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 174,
+        "expanded": false,
+        "name": "Production Template Map",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 529.7142857142857,
+        "scrollY": 599.1428571428571
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "Demuulan Battle Map",
+        "order": 52,
+        "parentId": 82,
+        "scrollX": 618,
+        "scrollY": 505
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "East Town East Mountain Path 3",
+        "order": 153,
+        "parentId": 95,
+        "scrollX": 1393.7142857142856,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "East Town - Warg Confinement",
+        "order": 154,
+        "parentId": 176,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "Eastern Town - Stallion Battlefield",
+        "order": 155,
+        "parentId": 176,
+        "scrollX": 536.5714285714286,
+        "scrollY": 676.2857142857142
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "Private room",
+        "order": 80,
+        "parentId": 52,
+        "scrollX": 915.4285714285713,
+        "scrollY": 774
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "Boss Room Pigman",
+        "order": 139,
+        "parentId": 97,
+        "scrollX": 519.4285714285714,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "Inside the bathhouse",
+        "order": 62,
+        "parentId": 78,
+        "scrollX": 1404,
+        "scrollY": 585.4285714285714
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "Event in the Bathhouse",
+        "order": 63,
+        "parentId": 181,
+        "scrollX": 519.4285714285714,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "Bathhouse Battle",
+        "order": 64,
+        "parentId": 182,
+        "scrollX": 533.1428571428571,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "2F Brothel Prostitution Event Space",
+        "order": 79,
+        "parentId": 55,
+        "scrollX": 516,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "Slum",
+        "order": 95,
+        "parentId": 54,
+        "scrollX": 529.7142857142857,
+        "scrollY": 532.2857142857142
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "City Police Base Combat",
+        "order": 69,
+        "parentId": 149,
+        "scrollX": 602,
+        "scrollY": 505
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "Training Room",
+        "order": 103,
+        "parentId": 40,
+        "scrollX": 516,
+        "scrollY": 528.8571428571428
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "Slum District Event",
+        "order": 97,
+        "parentId": 189,
+        "scrollX": 533.1428571428571,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "Slum District Battle",
+        "order": 96,
+        "parentId": 185,
+        "scrollX": 529.7142857142857,
+        "scrollY": 527.1428571428571
+    },
+    {
+        "id": 190,
+        "expanded": false,
+        "name": "Pigman Seedbed Room",
+        "order": 138,
+        "parentId": 97,
+        "scrollX": 529.7142857142857,
+        "scrollY": 518.5714285714286
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "Crucifixion Gangbang Map",
+        "order": 114,
+        "parentId": 37,
+        "scrollX": 519.4285714285714,
+        "scrollY": 475.71428571428567
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "Thug Hideout",
+        "order": 105,
+        "parentId": 185,
+        "scrollX": 718.2857142857142,
+        "scrollY": 668.5714285714286
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "Thug Hideout - Confinement Room",
+        "order": 106,
+        "parentId": 192,
+        "scrollX": 529.7142857142857,
+        "scrollY": 440.57142857142856
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "East Town East Mountain Path 2 Defeat Event Use",
+        "order": 157,
+        "parentId": 95,
+        "scrollX": 1520.5714285714284,
+        "scrollY": 742.2857142857142
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "Prison common cell",
+        "order": 117,
+        "parentId": 79,
+        "scrollX": 451.55555555555554,
+        "scrollY": 360
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "Prison Exterior",
+        "order": 118,
+        "parentId": 79,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "Goblin Confinement Room Battle Event",
+        "order": 133,
+        "parentId": 6,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 198,
+        "expanded": true,
+        "name": "Eastern Town Mountain Path Defeat Event Use",
+        "order": 150,
+        "parentId": 105,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "East Town - Stallion Battlefield - For Events",
+        "order": 156,
+        "parentId": 178,
+        "scrollX": 519.4285714285714,
+        "scrollY": 518.5714285714286
+    },
+    null,
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "1F Post-Incident Brothel",
+        "order": 81,
+        "parentId": 52,
+        "scrollX": 862.2857142857142,
+        "scrollY": 664.2857142857142
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "2F Post-Incident Brothel",
+        "order": 82,
+        "parentId": 201,
+        "scrollX": 728.5714285714286,
+        "scrollY": 664.2857142857142
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "Heretic Bad End",
+        "order": 121,
+        "parentId": 42,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    },
+    {
+        "id": 204,
+        "expanded": false,
+        "name": "Random Attacker John's Hideout - In Front of the House",
+        "order": 86,
+        "parentId": 46,
+        "scrollX": 618,
+        "scrollY": 505
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "Staff Roll",
+        "order": 199,
+        "parentId": 0,
+        "scrollX": 533.1428571428571,
+        "scrollY": 489.4285714285714
+    }
+]
